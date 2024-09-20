@@ -1,0 +1,49 @@
+.city-input-form {  
+  background-color: #333;  
+  color: #fff;  
+  padding: 20px;  
+}  
+  
+.city-input-form input[type="text"] {  
+  width: 100%;  
+  padding: 10px;  
+  margin-bottom: 10px;  
+  border: none;  
+  border-radius: 5px;  
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);  
+}  
+  
+.city-input-form button[type="submit"] {  
+  width: 100%;  
+  padding: 10px;  
+  margin-bottom: 10px;  
+  border: none;  
+  border-radius: 5px;  
+  background-color: #4CAF50;  
+  color: #fff;  
+  cursor: pointer;  
+}  
+  
+.city-input-form button[type="submit"]:hover {  
+  background-color: #3e8e41;  
+}  
+  
+.city-input-form ul {  
+  list-style: none;  
+  padding: 0;  
+  margin: 0;  
+}  
+  
+.city-input-form li {  
+  padding: 10px;  
+  border-bottom: 1px solid #ccc;  
+}  
+  
+.city-input-form li:last-child {  
+  border-bottom: none;  
+}  
+  
+.error {  
+  color: #f00;  
+  font-size: 12px;  
+  margin-bottom:10px;}
